@@ -1,0 +1,5 @@
+model,MAE_m,RMSE_m,bias_m
+Exponential (spectrogram),0.4821,0.6953,0.04
+Inverse (spectrogram),9.9181,11.8004,-0.4519
+Exponential (time-series),0.3355,0.4513,-0.0021
+Inverse (time-series),9.9295,11.8043,-0.4805
